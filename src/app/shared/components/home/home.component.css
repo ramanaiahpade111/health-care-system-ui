@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Lobster&family=Roboto+Condensed:wght@300;400&family=Silkscreen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+.title {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 29px;
+    color: #9228abd4;
+    font-weight: bold;
+}
+
+.sub-title{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', sans-serif;
+    color: #0a7d0c;
+    font-size: 12px;
+    margin-top: -5px;
+}
+
+a:hover{
+    color: red;
+    cursor: pointer;
+}

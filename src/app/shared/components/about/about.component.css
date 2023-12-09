@@ -1,0 +1,14 @@
+.title{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', sans-serif;
+    color: #0a7d0c;
+    font-size: 32px;
+}
+
+.text{
+    text-align: justify;
+}
+
+.img{
+    height: 48vh;
+}
